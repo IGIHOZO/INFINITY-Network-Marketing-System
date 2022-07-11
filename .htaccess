@@ -1,0 +1,26 @@
+ReWriteEngine On
+ReWriteRule ^homepage?$ /infinity/index.php [L]
+ReWriteRule ^about?$ /infinity/about.php [L]
+ReWriteRule ^contact?$ /infinity/contact.php [L]
+ReWriteRule ^product?$ /infinity/product.php [L]
+ReWriteRule ^blog?$ /infinity/blog.php [L]
+ReWriteRule ^error-page/404-page?$ /infinity/inf_sys/error_404.php [L]
+ErrorDocument 404 /infinity/inf_sys/error-page/404-page.php
+ReWriteRule ^inf_sys/login/Sign-up?$ /infinity/inf_sys/login/sign-up.php [L]
+ReWriteRule ^inf_sys/login/login?$ /infinity/inf_sys/login/index.php [L]
+ReWriteRule ^inf_sys/Admin/Pincode?$ /infinity/inf_sys/Admin/generate-pincode.php [L]
+ReWriteRule ^inf_sys/Admin/mlm-settings?$ /infinity/inf_sys/Admin/startup-settings.php[L]
+ReWriteRule ^inf_sys/Admin/member-tree?$ /infinity/inf_sys/Admin/Member-tree.php [L]
+ReWriteRule ^inf_sys/agent/downlines?$ /infinity/inf_sys/agent/view-downlines.php [L]
+ReWriteRule ^inf_sys/agent/add-member?$ /infinity/inf_sys/agent/add-member.php [L]
+ReWriteRule ^inf_sys/agent/dashboard?$ /infinity/inf_sys/agent/index.php [L]
+ReWriteRule ^inf_sys/agent/Direct-add-member?$ /infinity/inf_sys/agent/balance-member.php [L]
+ReWriteRule ^inf_sys/agent/make-encashment?$ /infinity/inf_sys/agent/make-encashment.php [L]
+ReWriteRule ^inf_sys/agent/encashment-history?$ /infinity/inf_sys/agent/encashment-history.php [L]
+ReWriteRule ^inf_sys/agent/profile?$ /infinity/inf_sys/agent/profile.php [L]
+ReWriteRule ^inf_sys/agent/password-change?$ /infinity/inf_sys/agent/change-password.php [L]
+RewriteRule ^inf_sys/agent/([^/\.]+)/add-member/([^/\.]+)?$ /infinity/add-member.php?id=$1&page=$2 [L]
+
+
+ReWriteRule ^inf_sys/assests/ajax/YYUIUTYTGFSDJFKSDRHKHFJFHSKRODJSKRJDKSKRDSSKDFDSFPOLLIJUYSDSD?$ /infinity/inf_sys/assests/ajax/main.php [L]
+ReWriteRule ^firstpage/([^/\.]+)/page/([^/\.]+)?$ /user.php?user_id=$1&page=$2[L]

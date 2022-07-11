@@ -1,0 +1,23 @@
+[22-Jul-2019 07:48:06 UTC] PHP Warning:  require_once(../admin/includes/top.php): failed to open stream: No such file or directory in /home2/dnuaefvp/public_html/enfiniti/Admin/generate-pincode.php on line 27
+[22-Jul-2019 07:48:06 UTC] PHP Fatal error:  require_once(): Failed opening required '../admin/includes/top.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/dnuaefvp/public_html/enfiniti/Admin/generate-pincode.php on line 27
+[22-Jul-2019 07:48:18 UTC] PHP Warning:  require_once(../admin/includes/top.php): failed to open stream: No such file or directory in /home2/dnuaefvp/public_html/enfiniti/Admin/generate-pincode.php on line 27
+[22-Jul-2019 07:48:18 UTC] PHP Fatal error:  require_once(): Failed opening required '../admin/includes/top.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/dnuaefvp/public_html/enfiniti/Admin/generate-pincode.php on line 27
+[22-Jul-2019 08:13:22 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/enfiniti/Admin/includes/left.php on line 11
+[22-Jul-2019 11:28:40 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '[' in /home2/dnuaefvp/public_html/enfiniti/assests/ajax/main.php on line 831
+[22-Jul-2019 11:29:24 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '[' in /home2/dnuaefvp/public_html/enfiniti/assests/ajax/main.php on line 831
+[22-Jul-2019 08:38:51 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/enfiniti/Admin/index.php on line 5
+[22-Jul-2019 08:38:51 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/enfiniti/Admin/includes/left.php on line 11
+[22-Jul-2019 09:28:16 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/enfiniti/Admin/index.php on line 5
+[22-Jul-2019 09:28:16 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/enfiniti/Admin/includes/left.php on line 11
+[22-Jul-2019 09:47:42 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/enfiniti/Admin/index.php on line 5
+[22-Jul-2019 09:47:42 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/enfiniti/Admin/includes/left.php on line 11
+[22-Jul-2019 12:03:58 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/enfiniti/Admin/index.php on line 5
+[22-Jul-2019 12:03:58 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/enfiniti/Admin/includes/left.php on line 11
+[22-Jul-2019 12:03:59 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/enfiniti/Admin/index.php on line 5
+[22-Jul-2019 12:03:59 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/enfiniti/Admin/includes/left.php on line 11
+[22-Jul-2019 12:40:36 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/enfiniti/Admin/index.php on line 5
+[22-Jul-2019 12:40:36 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/enfiniti/Admin/includes/left.php on line 11
+[22-Jul-2019 12:40:53 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/enfiniti/Admin/index.php on line 5
+[22-Jul-2019 12:40:53 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/enfiniti/Admin/includes/left.php on line 11
+[22-Jul-2019 13:09:46 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/enfiniti/Admin/generate-pincode.php on line 5
+[22-Jul-2019 13:09:46 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/enfiniti/Admin/includes/left.php on line 11

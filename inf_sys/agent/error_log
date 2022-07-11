@@ -1,0 +1,194 @@
+[22-Jul-2019 23:50:14 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[22-Jul-2019 23:50:14 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[22-Jul-2019 23:53:11 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[22-Jul-2019 23:53:11 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 00:11:11 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Quick::FetchData(), 2 passed in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 326 and exactly 3 expected in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php:29
+Stack trace:
+#0 /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php(326): Quick->FetchData('SELECT * FROM p...', '1')
+#1 /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php(345): Quick->selPoints('1')
+#2 /home2/dnuaefvp/public_html/infinity/agent/index.php(3): require_once('/home2/dnuaefvp...')
+#3 {main}
+  thrown in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 29
+[23-Jul-2019 00:11:19 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Quick::FetchData(), 2 passed in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 326 and exactly 3 expected in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php:29
+Stack trace:
+#0 /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php(326): Quick->FetchData('SELECT * FROM p...', '1')
+#1 /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php(345): Quick->selPoints('1')
+#2 /home2/dnuaefvp/public_html/infinity/agent/index.php(3): require_once('/home2/dnuaefvp...')
+#3 {main}
+  thrown in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 29
+[23-Jul-2019 00:16:47 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Quick::FetchData(), 2 passed in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 326 and exactly 3 expected in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php:29
+Stack trace:
+#0 /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php(326): Quick->FetchData('SELECT * FROM p...', '1')
+#1 /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php(345): Quick->selPoints('1')
+#2 /home2/dnuaefvp/public_html/infinity/agent/index.php(3): require_once('/home2/dnuaefvp...')
+#3 {main}
+  thrown in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 29
+[23-Jul-2019 00:22:31 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Quick::FetchData(), 2 passed in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 326 and exactly 3 expected in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php:29
+Stack trace:
+#0 /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php(326): Quick->FetchData('SELECT * FROM p...', '1')
+#1 /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php(345): Quick->selPoints('1')
+#2 /home2/dnuaefvp/public_html/infinity/agent/index.php(3): require_once('/home2/dnuaefvp...')
+#3 {main}
+  thrown in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 29
+[23-Jul-2019 00:23:06 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Quick::FetchData(), 2 passed in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 326 and exactly 3 expected in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php:29
+Stack trace:
+#0 /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php(326): Quick->FetchData('SELECT * FROM p...', '1')
+#1 /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php(345): Quick->selPoints('1')
+#2 /home2/dnuaefvp/public_html/infinity/agent/index.php(3): require_once('/home2/dnuaefvp...')
+#3 {main}
+  thrown in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 29
+[23-Jul-2019 00:23:41 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Quick::FetchData(), 2 passed in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 326 and exactly 3 expected in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php:29
+Stack trace:
+#0 /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php(326): Quick->FetchData('SELECT * FROM p...', '1')
+#1 /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php(345): Quick->selPoints('1')
+#2 /home2/dnuaefvp/public_html/infinity/agent/index.php(3): require_once('/home2/dnuaefvp...')
+#3 {main}
+  thrown in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 29
+[23-Jul-2019 00:24:28 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Quick::FetchData(), 2 passed in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 326 and exactly 3 expected in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php:29
+Stack trace:
+#0 /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php(326): Quick->FetchData('SELECT * FROM p...', '1')
+#1 /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php(345): Quick->selPoints('1')
+#2 /home2/dnuaefvp/public_html/infinity/agent/index.php(3): require_once('/home2/dnuaefvp...')
+#3 {main}
+  thrown in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 29
+[23-Jul-2019 00:25:48 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Quick::FetchData(), 2 passed in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 329 and exactly 3 expected in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php:29
+Stack trace:
+#0 /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php(329): Quick->FetchData('SELECT * FROM p...', '1')
+#1 /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php(348): Quick->selPoints('1')
+#2 /home2/dnuaefvp/public_html/infinity/agent/index.php(3): require_once('/home2/dnuaefvp...')
+#3 {main}
+  thrown in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 29
+[23-Jul-2019 00:27:59 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Quick::FetchData(), 2 passed in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 326 and exactly 3 expected in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php:29
+Stack trace:
+#0 /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php(326): Quick->FetchData('SELECT * FROM p...', '1')
+#1 /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php(345): Quick->selPoints('1')
+#2 /home2/dnuaefvp/public_html/infinity/agent/index.php(3): require_once('/home2/dnuaefvp...')
+#3 {main}
+  thrown in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 29
+[23-Jul-2019 00:32:43 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Quick::FetchData(), 2 passed in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 326 and exactly 3 expected in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php:29
+Stack trace:
+#0 /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php(326): Quick->FetchData('SELECT * FROM p...', '1')
+#1 /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php(345): Quick->selPoints('1')
+#2 /home2/dnuaefvp/public_html/infinity/agent/index.php(3): require_once('/home2/dnuaefvp...')
+#3 {main}
+  thrown in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 29
+[23-Jul-2019 00:36:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Quick::FetchData(), 2 passed in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 325 and exactly 3 expected in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php:29
+Stack trace:
+#0 /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php(325): Quick->FetchData('SELECT * FROM p...', '1')
+#1 /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php(344): Quick->selPoints('1')
+#2 /home2/dnuaefvp/public_html/infinity/agent/index.php(3): require_once('/home2/dnuaefvp...')
+#3 {main}
+  thrown in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 29
+[23-Jul-2019 00:37:31 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 334
+[23-Jul-2019 00:37:31 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 00:37:31 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 00:44:43 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 00:44:43 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 00:45:07 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 334
+[23-Jul-2019 00:45:07 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 00:45:07 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 00:45:30 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 334
+[23-Jul-2019 00:46:03 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 334
+[23-Jul-2019 00:46:03 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 00:46:03 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 00:46:05 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 334
+[23-Jul-2019 00:47:22 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 334
+[23-Jul-2019 00:47:22 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 00:47:22 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 00:48:23 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 334
+[23-Jul-2019 00:49:14 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 334
+[23-Jul-2019 00:49:14 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 00:49:14 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 00:53:28 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 334
+[23-Jul-2019 00:59:11 UTC] PHP Parse error:  syntax error, unexpected '$timezone' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 150
+[23-Jul-2019 00:59:56 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 341
+[23-Jul-2019 01:01:37 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 341
+[23-Jul-2019 01:05:58 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 01:09:30 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 01:09:33 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 01:09:33 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 01:09:33 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 01:09:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 01:09:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 01:09:35 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 01:10:33 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 01:11:25 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 01:11:25 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 01:11:25 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 01:14:40 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 01:14:40 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 01:14:40 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 08:38:30 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 08:38:30 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 08:38:30 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 08:53:40 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 08:53:40 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 08:53:40 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 09:03:15 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 09:03:15 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 09:03:15 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 09:08:15 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 09:10:51 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 09:10:52 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 09:10:52 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 09:12:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 09:15:36 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 09:16:25 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 09:16:25 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 09:16:25 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/main/classes.php on line 530
+[23-Jul-2019 09:24:25 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 09:35:45 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/infinity/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/index.php on line 7
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/includes/left.php on line 14
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/includes/left.php on line 15
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/index.php on line 85
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/index.php on line 86
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/index.php on line 87
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/index.php on line 89
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/index.php on line 90
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/index.php on line 91
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/index.php on line 101
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/index.php on line 119
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/index.php on line 131
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/index.php on line 148
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/index.php on line 149
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/index.php on line 150
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/index.php on line 152
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/index.php on line 153
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/index.php on line 157
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/index.php on line 174
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/index.php on line 180
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/index.php on line 185
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/index.php on line 195
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/index.php on line 202
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/index.php on line 207
+[23-Jul-2019 10:45:40 UTC] PHP Notice:  Undefined variable: my_acount_id in /home2/dnuaefvp/public_html/infinity/agent/index.php on line 212
+[23-Jul-2019 11:09:51 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 11:09:52 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/main/classes.php on line 530
+[23-Jul-2019 11:09:52 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/main/classes.php on line 530
+[23-Jul-2019 11:46:49 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 11:46:49 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/main/classes.php on line 530
+[23-Jul-2019 11:46:49 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/main/classes.php on line 530
+[23-Jul-2019 11:49:00 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 11:55:31 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 11:55:32 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/main/classes.php on line 530
+[23-Jul-2019 11:55:32 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/main/classes.php on line 530
+[23-Jul-2019 12:19:16 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 12:19:16 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/main/classes.php on line 530
+[23-Jul-2019 12:19:16 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/main/classes.php on line 530
+[23-Jul-2019 12:19:36 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 12:22:25 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 12:23:55 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 12:25:25 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 12:27:50 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/assests/abdu/matching-class.php on line 360
+[23-Jul-2019 12:28:24 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/assests/abdu/matching-class.php on line 360
+[24-Jul-2019 05:57:38 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/inf_sys/assests/abdu/matching-class.php on line 360
+[24-Jul-2019 05:57:39 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/inf_sys/main/classes.php on line 530
+[24-Jul-2019 05:57:39 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/inf_sys/main/classes.php on line 530
+[24-Jul-2019 05:58:03 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/inf_sys/assests/abdu/matching-class.php on line 360
+[24-Jul-2019 05:58:13 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/inf_sys/assests/abdu/matching-class.php on line 360
+[24-Jul-2019 05:58:27 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/inf_sys/assests/abdu/matching-class.php on line 360
+[24-Jul-2019 05:59:19 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/inf_sys/assests/abdu/matching-class.php on line 360
+[24-Jul-2019 06:03:57 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/inf_sys/assests/abdu/matching-class.php on line 360
+[24-Jul-2019 06:03:57 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/inf_sys/main/classes.php on line 530
+[24-Jul-2019 06:03:57 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/dnuaefvp/public_html/inf_sys/main/classes.php on line 530
